@@ -46,7 +46,12 @@
 ---
 ## Feszültségoldó
 ###  Börtönös játék
- `Kettéosztjuk a csapatot, az egyik csapat rabok lesznek a másik csapat pedig a családtagjaik. Az egyik csoport kimegy. A raboknak  elmondjuk, hogy kiszabadulnak egy hétvégére, és a családtagjaik tudtára akarják adni, hogy mit szeretnének csinálni(egy hobbijuk), mit szeretnének enni (a kedvenc kajájuk), a családtagoknak pedig azt mondjuk, hogy segíteniük kell a szeretteik kiszabadításában, és ők azt fogják elmondani hogy hogyan. Hangszigetelés miatt csak mutogatással tudnak egymással kommunikálni, amikor visszajöttek egymással szembe állítjuk őket.`
+ `Kettéosztjuk a csapatot, az egyik csapat rabok lesznek a másik csapat pedig a családtagjaik. 
+ Az egyik csoport kimegy. A raboknak  elmondjuk, hogy kiszabadulnak egy hétvégére, 
+ és a családtagjaik tudtára akarják adni, hogy mit szeretnének csinálni(egy hobbijuk), 
+ mit szeretnének enni (a kedvenc kajájuk), a családtagoknak pedig azt mondjuk, hogy segíteniük 
+ kell a szeretteik kiszabadításában, és ők azt fogják elmondani hogy hogyan. Hangszigetelés 
+ miatt csak mutogatással tudnak egymással kommunikálni, amikor visszajöttek egymással szembe állítjuk őket.`
 
 ### Kellékek: 🚫
 
@@ -75,9 +80,12 @@ menti.com
  ### Spagettitorony
 
 
-    Három csapatra bomlanak az oktatók. Kapnak 1 méter celluxot, 20 szál száraz spagetti spagetti tésztát, 1 pillecukrot és 1 méter madzagot.
-     `Pillecukornak lennie kell a tetején`. Az elején a csapatoknak meg kell tippelniük hogy milyen magas tornyot tudnak építeni, és milyen gyorsan,
-      max 12 percük lesz rá. A lényeg az hogy álljon a torony. A végén megbeszéljük, hogy kinek sikerült, volt e vezető a csapatban, 
+    Három csapatra bomlanak az oktatók. 
+    Kapnak 1 méter celluxot, 20 szál száraz spagetti spagetti tésztát, 1 pillecukrot és 1 méter madzagot.
+     `Pillecukornak lennie kell a tetején`. Az elején a csapatoknak meg kell tippelniük 
+     hogy milyen magas tornyot tudnak építeni, és milyen gyorsan,
+      max 12 percük lesz rá. A lényeg az hogy álljon a torony. 
+      A végén megbeszéljük, hogy kinek sikerült, volt e vezető a csapatban, 
       milyen volt a közös munka, mi volt a nehézsége annak hogy együtt dolgozzanak. 
    
 ### Kellékek:
@@ -90,8 +98,10 @@ menti.com
 
 ---
 ## Pedagógiai II.
-    Csoportokra bontjuk a társaságot a székük aljára ragaszott különböző színű Post-itek segítségével. 
-    Különböző problémákat lapra kiosztva megkapják, és több lépéses megoldásrendszert próbálnak meg kidolgozni.
+    Csoportokra bontjuk a társaságot a székük aljára
+    ragaszott különböző színű Post-itek segítségével. 
+    Különböző problémákat lapra kiosztva megkapják, és 
+    több lépéses megoldásrendszert próbálnak meg kidolgozni.
 ###  Problémák:
 1. Három lány nagyon jó barátok, egymás mellett ülve megállás nélkül beszélgetnek az órán, és megpróbálják elvonni az oktató figyelmét és a diákokét is.
 2. Béla egy órán több alkalommal hangoztatja azt, hogy Balázs rettenetesen lassú és béna.
@@ -115,8 +125,10 @@ menti.com
 ---
 ## Energizer II.
  ### Gabalyodás
-    Egy körben állva becsukják a szemüket az oktatók és elindulnak befelé megpróbálnak megragadni 
-    egy-egy kezet. A cél az hogy ezekután ismét egy kört alkossanak úgy, hogy nem engedhetik el egymás kezét.
+    Egy körben állva becsukják a szemüket az oktatók és 
+    elindulnak befelé megpróbálnak megragadni 
+    egy-egy kezet. A cél az hogy ezekután ismét egy kört alkossanak úgy, 
+    hogy nem engedhetik el egymás kezét.
 
 ### Kellékek: 🚫
 `5 perc`
@@ -139,6 +151,8 @@ menti.com
 
 ---
 ## Összegzés
-    A kurzus elején használt Flipchart üres részére egy-egy szó arról, hogy milyen érzésük van a 
-    tréninggel kapcsolatban, melyik a legjellemzőbb szó amit rá használnának.
+    A kurzus elején használt Flipchart üres részére egy-egy szó 
+    arról, hogy milyen érzésük van a 
+    tréninggel kapcsolatban, melyik a legjellemzőbb szó 
+    amit rá használnának.
 `5 perc`
