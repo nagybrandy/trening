@@ -23,7 +23,8 @@
 ---
 ## Bevezető
 
-    Üdvözlés után mindenki bemutatkozik, név, tanulmányok. Kettéosztott flipchartra mindenki felír 1-1 szót hogy mit vár a mai képzéstől, milyen érzéssel érkezett ide.
+    Üdvözlés után mindenki bemutatkozik, név, tanulmányok. Kettéosztott flipchartra 
+    mindenki felír 1-1 szót hogy mit vár a mai képzéstől, milyen érzéssel érkezett ide.
 
 
 ### Kellékek
@@ -46,12 +47,12 @@
 ---
 ## Feszültségoldó
 ###  Börtönös játék
- `Kettéosztjuk a csapatot, az egyik csapat rabok lesznek a másik csapat pedig a családtagjaik. 
- Az egyik csoport kimegy. A raboknak  elmondjuk, hogy kiszabadulnak egy hétvégére, 
- és a családtagjaik tudtára akarják adni, hogy mit szeretnének csinálni(egy hobbijuk), 
- mit szeretnének enni (a kedvenc kajájuk), a családtagoknak pedig azt mondjuk, hogy segíteniük 
- kell a szeretteik kiszabadításában, és ők azt fogják elmondani hogy hogyan. Hangszigetelés 
- miatt csak mutogatással tudnak egymással kommunikálni, amikor visszajöttek egymással szembe állítjuk őket.`
+    Kettéosztjuk a csapatot, az egyik csapat rabok lesznek a másik csapat pedig a családtagjaik. 
+    Az egyik csoport kimegy. A raboknak  elmondjuk, hogy kiszabadulnak egy hétvégére, 
+    és a családtagjaik tudtára akarják adni, hogy mit szeretnének csinálni(egy hobbijuk), 
+    mit szeretnének enni (a kedvenc kajájuk), a családtagoknak pedig azt mondjuk, hogy segíteniük 
+    kell a szeretteik kiszabadításában, és ők azt fogják elmondani hogy hogyan. Hangszigetelés 
+    miatt csak mutogatással tudnak egymással kommunikálni, amikor visszajöttek egymással szembe állítjuk őket.
 
 ### Kellékek: 🚫
 
@@ -82,11 +83,11 @@ menti.com
 
     Három csapatra bomlanak az oktatók. 
     Kapnak 1 méter celluxot, 20 szál száraz spagetti spagetti tésztát, 1 pillecukrot és 1 méter madzagot.
-     `Pillecukornak lennie kell a tetején`. Az elején a csapatoknak meg kell tippelniük 
-     hogy milyen magas tornyot tudnak építeni, és milyen gyorsan,
-      max 12 percük lesz rá. A lényeg az hogy álljon a torony. 
-      A végén megbeszéljük, hogy kinek sikerült, volt e vezető a csapatban, 
-      milyen volt a közös munka, mi volt a nehézsége annak hogy együtt dolgozzanak. 
+    `Pillecukornak lennie kell a tetején`. Az elején a csapatoknak meg kell tippelniük 
+    hogy milyen magas tornyot tudnak építeni, és milyen gyorsan,
+    max 12 percük lesz rá. A lényeg az hogy álljon a torony. 
+    A végén megbeszéljük, hogy kinek sikerült, volt e vezető a csapatban, 
+    milyen volt a közös munka, mi volt a nehézsége annak hogy együtt dolgozzanak. 
    
 ### Kellékek:
 * cellux
