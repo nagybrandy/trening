@@ -6,12 +6,12 @@
 1. Feszültségoldó (`10 perc`) ✔ 
 1. Pedagógiai feladat I. (`10 perc`) ✔ 
 
-   <span style="background-color: darkred">` [szünet] (5 perc) `</span>
+   <span style="background-color: red">` [szünet] (5 perc) `</span>
 1. Energizer (`5 perc`)
 1. Csapatépítő (`20 perc`) ✔
 1. Pedagógiai II. (`20 perc`) ✔ 
 
-     <span style="background-color: darkred">` [szünet] (10 perc) `</span>
+     <span style="background-color: red">` [szünet] (10 perc) `</span>
 
 1. Energizer (`5 perc`)
 1. Szakmai (Bucsi)  (`20 perc`) ✔
