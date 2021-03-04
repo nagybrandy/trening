@@ -35,7 +35,7 @@
 
 ---
 ## Ismerkedős játék I.
-    Önálló munka. Mindnenki kap egy A4-es lapot, és lerajzolja az életének 3 fontos állomását, 
+    Önálló munka. MIndenkiAs ki kap egy A4-es lapot, és lerajzolja az életének 3 fontos állomását, 
     és egy negyedik rajzon pedig azt, hogy hogyan képzeli el magát 5 év múlva, mik a céljai.
 
 ### Kellékek
