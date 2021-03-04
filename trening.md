@@ -1,5 +1,5 @@
 # Tréning
-## Menetrend
+## Menetrendecske
 
 1. Bevezető (`10 perc`)  ✔
 1. Ismerkedős játék I. (`15 perc`)  ✔ 
@@ -9,14 +9,14 @@
    <span style="background-color: red">` [szünet] (5 perc) `</span>
 1. Energizer (`5 perc`)✔
 1. Csapatépítő (`20 perc`) ✔
-1. Pedagógiai II. (`20 perc`) ✔ 
+2. Pedagógiai II. (`20 perc`) ✔ 
 
      <span style="background-color: red">` [szünet] (10 perc) `</span>
 
-1. Energizer (`5 perc`)✔
-1. Szakmai (Bucsi)  (`20 perc`) ✔
-1. Classdojo  (`5 perc`) ✔
-1. Összegzés  (`10 perc`) ✔
+3. Energizer (`5 perc`)✔
+4. Szakmai (Bucsi)  (`20 perc`) ✔
+5. Classdojo  (`5 perc`) ✔
+6. Összegzés  (`10 perc`) ✔
 
 ***`Σ: ~145 perc`*** 
 
